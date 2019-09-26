@@ -1,6 +1,6 @@
 # Male Female Classifier
 
-##The aim of the project is to classify between male and female from a given set of data.
+## The aim of the project is to classify between male and female from a given set of data.
 
 **Technology Used is sklearn and Decision tree classifier**
 
